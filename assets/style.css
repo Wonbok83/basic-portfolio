@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.content {
+    clear: both;
+    background: #bbb9b9;
+    border-color:#dddddd;
+    margin: 10px 30px;
+    width: 75%;
+    height: 200px; 
+}
+
+#logo{
+    background: lightseagreen;
+    color: white;
+    float: left;
+    padding : 10px;
+
+   
+}
+
+.header {
+    height: 90px; 
+
+}
+
+.section{
+    background-color: white;
+    border:2px;
+}
+
+.list{
+    float: right;
+    
+}
+
+
+li{
+    display: inline;
+    color:gray;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 20px;
+
+
+}
+
+
+#aboutme {
+    color:lightseagreen;
+    font-size:30px;
+}
+
+.wrapper{
+    width: 600px; 
+    padding: 20px;
+    margin: 0 auto;
+}

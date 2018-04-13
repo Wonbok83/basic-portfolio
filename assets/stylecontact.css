@@ -1,0 +1,43 @@
+*{
+    margin: 0 auto;
+}
+body{
+    font-family: 'Arial','Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background: lightgray;
+    width: 600px;
+    font-size: 18px;
+  
+}
+#name{
+    width: 600px;
+}
+
+#email {
+    width: 600px;
+}
+#message{
+    width: 600px;
+    height:300px;
+    border: 1px solid #333;
+    overflow: hidden;
+}
+
+
+#submit {
+    color:white;
+    background:lightseagreen;
+}
+
+h1 {
+    color: lightseagreen;
+} 
+
+
+div{
+    background-color:white;
+    width:600px;
+padding: 50px;
+overflow: auto;
+    
+}
